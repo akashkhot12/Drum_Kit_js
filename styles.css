@@ -1,0 +1,91 @@
+body {
+  text-align: center;
+  background-image: url(images/background.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #89e7e7;
+  font-family: "Arvo", cursive;
+  text-shadow: 7px 0 #000000;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {   
+background-image: url("https://cdn-icons-png.flaticon.com/512/2972/2972066.png");
+background-size: cover;
+}
+
+
+.a {
+  background-image: url("https://media.istockphoto.com/id/1200719328/vector/tambourine-icon-musical-instrument-beat-the-drum-flat-design-vector.jpg?s=612x612&w=0&k=20&c=MLMqxuNeuILEewI_vSonVeGmTMu3n6uHvv2QYY6gIKs=");
+  background-size: cover;
+}
+
+.s {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/2884/2884463.png");
+  background-size: cover;
+}
+
+.d {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/4431/4431075.png");
+  background-size: cover;
+}
+
+.j {
+  background-image: url("https://cdn-icons-png.flaticon.com/256/5257/5257613.png");
+  background-size: cover;
+}
+
+.k {
+  background-image: url("https://globalsymbols.com/uploads/production/image/imagefile/15591/17_15592_db983b64-c6b9-41a3-8eb0-bfb1318726d3.png");
+  background-size: cover;
+}
+
+.l {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/505/285/non_2x/bass-drum-percussion-musical-instrument-isolated-icon-free-vector.jpg");
+  background-size: cover;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #00bfff;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 4.5;
+  font-weight: 200;
+  color: #89e7e7;
+  text-shadow: 7px 0 #000000; 
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
